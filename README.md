@@ -23,6 +23,10 @@ pip install -r requirements.txt
 
 This folder includes various scripts and notebooks to help students learn and practice statistical concepts using Python.
 
+- 00_random_numbers.ipynb | [Open in Colab](https://colab.research.google.com/github/PhysicistSouravDas/iucaa-issaa-2025/blob/main/00_random_numbers.ipynb)
+- 01_PDF_and_CDF.ipynb | [Open in Colab](https://colab.research.google.com/github/PhysicistSouravDas/iucaa-issaa-2025/blob/main/01_PDF_and_CDF.ipynb)
+- 02_Bayesian_stats.ipynb | [Open in Colab](https://colab.research.google.com/github/PhysicistSouravDas/iucaa-issaa-2025/blob/main/02_Bayesian_stats.ipynb)
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
